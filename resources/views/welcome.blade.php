@@ -35,6 +35,8 @@
                     @endauth
                 </div>
             @endif
+            <h1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum distinctio pariatur dolor quisquam tempore repellendus, cumque numquam, aspernatur vero eius, fuga ipsa consequuntur iusto fugit corrupti. Vel alias ea cumque.</h1>
+
 
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
                 <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
